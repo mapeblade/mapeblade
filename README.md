@@ -1,8 +1,9 @@
+<div align="middle">
+
 <img width="1280" height="316" alt="1000001732" src="https://github.com/user-attachments/assets/0b6c6d86-327b-408d-bf92-f6bb6cdb2ecf" />
 
 $$\color{#BE1A1A}{\text{louise}}$$ 
 $$\color{#D0311E}{\text{he / him}}$$ 
-
 
 <img width="600" height="800" alt="1000001736" src="https://github.com/user-attachments/assets/13798131-c1aa-41f5-ad12-1ccd34fbc53a" />
 
@@ -16,3 +17,5 @@ $$\color{#F7D87F}{\text{BANNER SOURCE:}}$$
 $$\color{#D0311E}{\text{kurograd on pinterest}}$$ 
 
 $$\color{#BE1A1A}{\text{coded by anon}}$$
+
+<div>
