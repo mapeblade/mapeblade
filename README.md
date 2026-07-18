@@ -10,3 +10,9 @@ $$\color{#F7D87F}{\text{taken}}$$
 $$\color{#F8EBAB}{\text{i love watching mapicc}}$$
 
 <img width="1280" height="316" alt="1000001733" src="https://github.com/user-attachments/assets/531b07f0-ed50-4a22-8663-2af401ae9840" />
+
+$$\color{#F7D87F}{\text{BANNER SOURCE:}}$$
+
+$$\color{#D0311E}{\text{kurograd on pinterest}}$$ 
+
+$$\color{#BE1A1A}{\text{coded by anon}}$$
